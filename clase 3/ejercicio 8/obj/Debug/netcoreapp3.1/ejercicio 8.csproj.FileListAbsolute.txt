@@ -1,0 +1,12 @@
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.exe
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.deps.json
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.runtimeconfig.json
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.runtimeconfig.dev.json
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.dll
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.pdb
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.AssemblyInfoInputs.cache
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.AssemblyInfo.cs
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.dll
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.pdb
+C:\Users\jose giron\Documents\clase 3\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.genruntimeconfig.cache

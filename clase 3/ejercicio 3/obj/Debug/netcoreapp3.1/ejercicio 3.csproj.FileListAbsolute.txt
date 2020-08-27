@@ -1,0 +1,13 @@
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\bin\Debug\netcoreapp3.1\ejercicio 3.exe
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\bin\Debug\netcoreapp3.1\ejercicio 3.deps.json
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\bin\Debug\netcoreapp3.1\ejercicio 3.runtimeconfig.json
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\bin\Debug\netcoreapp3.1\ejercicio 3.runtimeconfig.dev.json
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\bin\Debug\netcoreapp3.1\ejercicio 3.dll
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\bin\Debug\netcoreapp3.1\ejercicio 3.pdb
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.csprojAssemblyReference.cache
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.AssemblyInfo.cs
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.dll
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.pdb
+C:\Users\jose giron\Documents\ejercicios clase\ejercicio 3\obj\Debug\netcoreapp3.1\ejercicio 3.genruntimeconfig.cache
