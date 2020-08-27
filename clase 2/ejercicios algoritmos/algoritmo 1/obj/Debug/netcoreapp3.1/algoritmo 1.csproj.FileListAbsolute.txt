@@ -1,0 +1,13 @@
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\bin\Debug\netcoreapp3.1\algoritmo 1.exe
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\bin\Debug\netcoreapp3.1\algoritmo 1.deps.json
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\bin\Debug\netcoreapp3.1\algoritmo 1.runtimeconfig.json
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\bin\Debug\netcoreapp3.1\algoritmo 1.runtimeconfig.dev.json
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\bin\Debug\netcoreapp3.1\algoritmo 1.dll
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\bin\Debug\netcoreapp3.1\algoritmo 1.pdb
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.csprojAssemblyReference.cache
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.AssemblyInfoInputs.cache
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.AssemblyInfo.cs
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.csproj.CoreCompileInputs.cache
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.dll
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.pdb
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 1\obj\Debug\netcoreapp3.1\algoritmo 1.genruntimeconfig.cache

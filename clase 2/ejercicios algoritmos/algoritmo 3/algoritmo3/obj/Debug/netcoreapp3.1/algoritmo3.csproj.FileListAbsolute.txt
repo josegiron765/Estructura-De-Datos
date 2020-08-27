@@ -1,0 +1,26 @@
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.exe
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.deps.json
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.runtimeconfig.json
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.runtimeconfig.dev.json
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.dll
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.pdb
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.csprojAssemblyReference.cache
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.AssemblyInfoInputs.cache
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.AssemblyInfo.cs
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.csproj.CoreCompileInputs.cache
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.dll
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.pdb
+C:\Users\jose giron\Documents\algoritmo 1\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.genruntimeconfig.cache
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.exe
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.deps.json
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.runtimeconfig.json
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.runtimeconfig.dev.json
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.dll
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\bin\Debug\netcoreapp3.1\algoritmo3.pdb
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.csprojAssemblyReference.cache
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.AssemblyInfoInputs.cache
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.AssemblyInfo.cs
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.csproj.CoreCompileInputs.cache
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.dll
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.pdb
+C:\estructura de datos\clase 2\ejercicios algoritmos\algoritmo 3\algoritmo3\obj\Debug\netcoreapp3.1\algoritmo3.genruntimeconfig.cache
