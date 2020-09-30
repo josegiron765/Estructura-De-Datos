@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "algoritmo4_segundapagina/1.0.0": {
+        "runtime": {
+          "algoritmo4_segundapagina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algoritmo4_segundapagina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

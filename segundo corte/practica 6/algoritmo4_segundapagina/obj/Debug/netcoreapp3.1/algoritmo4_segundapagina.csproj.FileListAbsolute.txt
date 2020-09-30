@@ -1,0 +1,13 @@
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\bin\Debug\netcoreapp3.1\algoritmo4_segundapagina.exe
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\bin\Debug\netcoreapp3.1\algoritmo4_segundapagina.deps.json
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\bin\Debug\netcoreapp3.1\algoritmo4_segundapagina.runtimeconfig.json
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\bin\Debug\netcoreapp3.1\algoritmo4_segundapagina.runtimeconfig.dev.json
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\bin\Debug\netcoreapp3.1\algoritmo4_segundapagina.dll
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\bin\Debug\netcoreapp3.1\algoritmo4_segundapagina.pdb
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.csprojAssemblyReference.cache
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.AssemblyInfoInputs.cache
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.AssemblyInfo.cs
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.csproj.CoreCompileInputs.cache
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.dll
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.pdb
+C:\Estructura- de -datos\segundo corte\practica 6\algoritmo4_segundapagina\obj\Debug\netcoreapp3.1\algoritmo4_segundapagina.genruntimeconfig.cache
