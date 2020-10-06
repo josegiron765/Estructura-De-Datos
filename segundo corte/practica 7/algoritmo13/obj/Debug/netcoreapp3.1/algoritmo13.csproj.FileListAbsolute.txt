@@ -1,0 +1,12 @@
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\bin\Debug\netcoreapp3.1\algoritmo13.exe
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\bin\Debug\netcoreapp3.1\algoritmo13.deps.json
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\bin\Debug\netcoreapp3.1\algoritmo13.runtimeconfig.json
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\bin\Debug\netcoreapp3.1\algoritmo13.runtimeconfig.dev.json
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\bin\Debug\netcoreapp3.1\algoritmo13.dll
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\bin\Debug\netcoreapp3.1\algoritmo13.pdb
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\obj\Debug\netcoreapp3.1\algoritmo13.AssemblyInfoInputs.cache
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\obj\Debug\netcoreapp3.1\algoritmo13.AssemblyInfo.cs
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\obj\Debug\netcoreapp3.1\algoritmo13.csproj.CoreCompileInputs.cache
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\obj\Debug\netcoreapp3.1\algoritmo13.dll
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\obj\Debug\netcoreapp3.1\algoritmo13.pdb
+C:\Estructura- de -datos\segundo corte\practica 7\algoritmo13\obj\Debug\netcoreapp3.1\algoritmo13.genruntimeconfig.cache
