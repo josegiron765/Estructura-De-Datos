@@ -1,0 +1,13 @@
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.exe
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.deps.json
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.json
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.dev.json
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.dll
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csprojAssemblyReference.cache
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\Estructura- de -datos\segundo corte\practica 10\ejercicio2\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache
